@@ -79,3 +79,7 @@ font-size: 0;
 a:hover {
 	border-color: white;
 }
+button {
+	background-color: #F15B31;
+	color: white;
+}
