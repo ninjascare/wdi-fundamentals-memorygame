@@ -49,8 +49,5 @@ var createBoard = function(){
 	}
 };
 createBoard();
-var resetItems = function(){
 
-};
-document.getElementById('game-board').addEventListener('click', resetItems);
 
